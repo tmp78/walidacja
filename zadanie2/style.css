@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    backgroud-color: #333333;
+    color: #FFFFFG;
+}
+
+#container {
+    width: 800;
+    margin: 0 auto;
+    padding 20px;
+    background-color: white;
+}
+
+h1 {
+    color: blue;
+    text-align: center
+    text-decoration: underline;
+}
+
+h2 {
+    color: darkred;
+/* Brak klamry zamykającej */
+
+p {
+    font-size: 18pixels;
+    line-height: 1.5;
+}
